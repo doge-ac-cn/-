@@ -1,0 +1,174 @@
+(182, 59)
+(182, 122)
+(182, 103)
+(183, 116)
+(183, 80)
+(183, 98)
+(183, 80)
+(183, 103)
+(183, 84)
+(183, 85)
+roi区域：心肌，特征降维方法：Lasso，模型名：KNN
+Accuracy: 0.7488 ± 0.0464
+F1 Score: 0.7475 ± 0.0922
+Sensitivity: 0.7312 ± 0.0954
+Specificity: 0.8744 ± 0.0232
+AUC: 0.8599 ± 0.0591
+roi区域：心肌，特征降维方法：Lasso，模型名：LogisticRegressor
+Accuracy: 0.8030 ± 0.0859
+F1 Score: 0.8018 ± 0.0991
+Sensitivity: 0.7946 ± 0.0955
+Specificity: 0.9015 ± 0.0430
+AUC: 0.9167 ± 0.0281
+roi区域：心肌，特征降维方法：Lasso，模型名：DecisionTree
+Accuracy: 0.6946 ± 0.0696
+F1 Score: 0.6666 ± 0.0866
+Sensitivity: 0.6622 ± 0.1214
+Specificity: 0.8473 ± 0.0348
+AUC: 0.7653 ± 0.0741
+roi区域：心肌，特征降维方法：Lasso，模型名：SVM
+Accuracy: 0.7882 ± 0.0640
+F1 Score: 0.7846 ± 0.1016
+Sensitivity: 0.7846 ± 0.0834
+Specificity: 0.8941 ± 0.0320
+AUC: 0.9087 ± 0.0316
+roi区域：心肌，特征降维方法：Lasso，模型名：RandomForest
+Accuracy: 0.8276 ± 0.0653
+F1 Score: 0.8275 ± 0.1012
+Sensitivity: 0.8119 ± 0.0980
+Specificity: 0.9138 ± 0.0326
+AUC: 0.9335 ± 0.0296
+roi区域：心肌，特征降维方法：Lasso，模型名：AdaBoost
+Accuracy: 0.6798 ± 0.0883
+F1 Score: 0.6035 ± 0.1137
+Sensitivity: 0.5832 ± 0.0951
+Specificity: 0.8399 ± 0.0441
+AUC: 0.8319 ± 0.0858
+roi区域：心肌，特征降维方法：Lasso，模型名：XGBoost
+Accuracy: 0.8177 ± 0.0395
+F1 Score: 0.8147 ± 0.0804
+Sensitivity: 0.7958 ± 0.0807
+Specificity: 0.9089 ± 0.0198
+AUC: 0.9255 ± 0.0350
+roi区域：心肌，特征降维方法：Lasso，模型名：LightGBM
+Accuracy: 0.8128 ± 0.0506
+F1 Score: 0.8010 ± 0.0896
+Sensitivity: 0.7861 ± 0.0914
+Specificity: 0.9064 ± 0.0253
+AUC: 0.9318 ± 0.0377
+(182, 79)
+(182, 114)
+(182, 76)
+(183, 61)
+(183, 69)
+(183, 78)
+(183, 71)
+(183, 78)
+(183, 75)
+(183, 107)
+roi区域：左心室，特征降维方法：Lasso，模型名：KNN
+Accuracy: 0.7635 ± 0.0633
+F1 Score: 0.7281 ± 0.1184
+Sensitivity: 0.6903 ± 0.1083
+Specificity: 0.8818 ± 0.0316
+AUC: 0.8361 ± 0.0583
+roi区域：左心室，特征降维方法：Lasso，模型名：LogisticRegressor
+Accuracy: 0.8079 ± 0.0528
+F1 Score: 0.7952 ± 0.0605
+Sensitivity: 0.7728 ± 0.0624
+Specificity: 0.9039 ± 0.0264
+AUC: 0.8773 ± 0.0356
+roi区域：左心室，特征降维方法：Lasso，模型名：DecisionTree
+Accuracy: 0.6897 ± 0.0762
+F1 Score: 0.6640 ± 0.0869
+Sensitivity: 0.6578 ± 0.1019
+Specificity: 0.8448 ± 0.0381
+AUC: 0.7400 ± 0.0714
+roi区域：左心室，特征降维方法：Lasso，模型名：SVM
+Accuracy: 0.7734 ± 0.0781
+F1 Score: 0.7536 ± 0.0697
+Sensitivity: 0.7273 ± 0.0856
+Specificity: 0.8867 ± 0.0390
+AUC: 0.8810 ± 0.0342
+roi区域：左心室，特征降维方法：Lasso，模型名：RandomForest
+Accuracy: 0.7783 ± 0.0709
+F1 Score: 0.7425 ± 0.0883
+Sensitivity: 0.7263 ± 0.0935
+Specificity: 0.8892 ± 0.0355
+AUC: 0.8683 ± 0.0432
+roi区域：左心室，特征降维方法：Lasso，模型名：AdaBoost
+Accuracy: 0.6798 ± 0.0966
+F1 Score: 0.6166 ± 0.1572
+Sensitivity: 0.5853 ± 0.1458
+Specificity: 0.8399 ± 0.0483
+AUC: 0.7675 ± 0.0514
+roi区域：左心室，特征降维方法：Lasso，模型名：XGBoost
+Accuracy: 0.7340 ± 0.1052
+F1 Score: 0.6883 ± 0.1259
+Sensitivity: 0.6718 ± 0.1303
+Specificity: 0.8670 ± 0.0526
+AUC: 0.8455 ± 0.0479
+roi区域：左心室，特征降维方法：Lasso，模型名：LightGBM
+Accuracy: 0.7734 ± 0.0961
+F1 Score: 0.7399 ± 0.1257
+Sensitivity: 0.7237 ± 0.1291
+Specificity: 0.8867 ± 0.0481
+AUC: 0.8635 ± 0.0530
+(182, 99)
+(182, 202)
+(182, 136)
+(183, 82)
+(183, 167)
+(183, 83)
+(183, 114)
+(183, 110)
+(183, 137)
+(183, 114)
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：KNN
+Accuracy: 0.7586 ± 0.0833
+F1 Score: 0.6989 ± 0.1416
+Sensitivity: 0.6686 ± 0.1441
+Specificity: 0.8793 ± 0.0417
+AUC: 0.8580 ± 0.0771
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：LogisticRegressor
+Accuracy: 0.7882 ± 0.0780
+F1 Score: 0.7588 ± 0.1036
+Sensitivity: 0.7393 ± 0.1162
+Specificity: 0.8941 ± 0.0390
+AUC: 0.9101 ± 0.0533
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：DecisionTree
+Accuracy: 0.6601 ± 0.0863
+F1 Score: 0.6426 ± 0.0989
+Sensitivity: 0.6516 ± 0.0992
+Specificity: 0.8300 ± 0.0432
+AUC: 0.7441 ± 0.0849
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：SVM
+Accuracy: 0.7882 ± 0.0704
+F1 Score: 0.7654 ± 0.0972
+Sensitivity: 0.7726 ± 0.0992
+Specificity: 0.8941 ± 0.0352
+AUC: 0.9280 ± 0.0418
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：RandomForest
+Accuracy: 0.8128 ± 0.0701
+F1 Score: 0.7770 ± 0.0944
+Sensitivity: 0.7424 ± 0.0994
+Specificity: 0.9064 ± 0.0351
+AUC: 0.9161 ± 0.0521
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：AdaBoost
+Accuracy: 0.7241 ± 0.0783
+F1 Score: 0.7070 ± 0.1318
+Sensitivity: 0.6718 ± 0.1178
+Specificity: 0.8621 ± 0.0391
+AUC: 0.8264 ± 0.0697
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：XGBoost
+Accuracy: 0.8374 ± 0.0714
+F1 Score: 0.8072 ± 0.0815
+Sensitivity: 0.7860 ± 0.0932
+Specificity: 0.9187 ± 0.0357
+AUC: 0.9387 ± 0.0365
+roi区域：心肌+左心室，特征降维方法：Lasso，模型名：LightGBM
+Accuracy: 0.8128 ± 0.0687
+F1 Score: 0.7784 ± 0.0985
+Sensitivity: 0.7581 ± 0.0937
+Specificity: 0.9064 ± 0.0344
+AUC: 0.9074 ± 0.0304

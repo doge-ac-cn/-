@@ -1,0 +1,108 @@
+roi区域：心肌，特征降维方法：无，模型名：KNN
+Accuracy: 0.6995 ± 0.1142
+F1 Score: 0.7090 ± 0.1095
+Sensitivity: 0.6930 ± 0.1176
+Specificity: 0.8498 ± 0.0571
+AUC: 0.8428 ± 0.0571
+roi区域：心肌，特征降维方法：无，模型名：LogisticRegressor
+Accuracy: 0.8325 ± 0.0402
+F1 Score: 0.8280 ± 0.0485
+Sensitivity: 0.8130 ± 0.0502
+Specificity: 0.9163 ± 0.0201
+AUC: 0.9319 ± 0.0188
+roi区域：心肌，特征降维方法：无，模型名：DecisionTree
+Accuracy: 0.7586 ± 0.0677
+F1 Score: 0.7420 ± 0.0996
+Sensitivity: 0.7331 ± 0.1027
+Specificity: 0.8793 ± 0.0338
+AUC: 0.7916 ± 0.0648
+roi区域：心肌，特征降维方法：无，模型名：SVM
+Accuracy: 0.7980 ± 0.0616
+F1 Score: 0.7889 ± 0.0793
+Sensitivity: 0.7673 ± 0.0897
+Specificity: 0.8990 ± 0.0308
+AUC: 0.9246 ± 0.0319
+roi区域：心肌，特征降维方法：无，模型名：RandomForest
+Accuracy: 0.8177 ± 0.0591
+F1 Score: 0.7962 ± 0.0835
+Sensitivity: 0.7712 ± 0.0891
+Specificity: 0.9089 ± 0.0295
+AUC: 0.9333 ± 0.0355
+roi区域：心肌，特征降维方法：无，模型名：AdaBoost
+Accuracy: 0.6847 ± 0.0974
+F1 Score: 0.6172 ± 0.0592
+Sensitivity: 0.6314 ± 0.0568
+Specificity: 0.8424 ± 0.0487
+AUC: 0.7100 ± 0.0646
+roi区域：左心室，特征降维方法：无，模型名：KNN
+Accuracy: 0.7143 ± 0.0824
+F1 Score: 0.7232 ± 0.1116
+Sensitivity: 0.7030 ± 0.1333
+Specificity: 0.8571 ± 0.0412
+AUC: 0.8331 ± 0.0709
+roi区域：左心室，特征降维方法：无，模型名：LogisticRegressor
+Accuracy: 0.7438 ± 0.0766
+F1 Score: 0.7422 ± 0.1094
+Sensitivity: 0.7195 ± 0.1091
+Specificity: 0.8719 ± 0.0383
+AUC: 0.8736 ± 0.0498
+roi区域：左心室，特征降维方法：无，模型名：DecisionTree
+Accuracy: 0.6453 ± 0.0789
+F1 Score: 0.6250 ± 0.1245
+Sensitivity: 0.6153 ± 0.1408
+Specificity: 0.8227 ± 0.0395
+AUC: 0.6991 ± 0.0926
+roi区域：左心室，特征降维方法：无，模型名：SVM
+Accuracy: 0.7882 ± 0.0626
+F1 Score: 0.7434 ± 0.0935
+Sensitivity: 0.7212 ± 0.1038
+Specificity: 0.8941 ± 0.0313
+AUC: 0.8636 ± 0.0311
+roi区域：左心室，特征降维方法：无，模型名：RandomForest
+Accuracy: 0.7931 ± 0.0370
+F1 Score: 0.7642 ± 0.0618
+Sensitivity: 0.7520 ± 0.0865
+Specificity: 0.8966 ± 0.0185
+AUC: 0.8778 ± 0.0536
+roi区域：左心室，特征降维方法：无，模型名：AdaBoost
+Accuracy: 0.6158 ± 0.0737
+F1 Score: 0.5988 ± 0.0849
+Sensitivity: 0.5742 ± 0.0958
+Specificity: 0.8079 ± 0.0369
+AUC: 0.7534 ± 0.0752
+roi区域：心肌+左心室，特征降维方法：无，模型名：KNN
+Accuracy: 0.7143 ± 0.0924
+F1 Score: 0.6690 ± 0.1308
+Sensitivity: 0.6328 ± 0.1371
+Specificity: 0.8571 ± 0.0462
+AUC: 0.7906 ± 0.0533
+roi区域：心肌+左心室，特征降维方法：无，模型名：LogisticRegressor
+Accuracy: 0.7980 ± 0.0921
+F1 Score: 0.7781 ± 0.1328
+Sensitivity: 0.7710 ± 0.1302
+Specificity: 0.8990 ± 0.0460
+AUC: 0.9246 ± 0.0399
+roi区域：心肌+左心室，特征降维方法：无，模型名：DecisionTree
+Accuracy: 0.6749 ± 0.0828
+F1 Score: 0.6375 ± 0.1063
+Sensitivity: 0.6493 ± 0.1245
+Specificity: 0.8374 ± 0.0414
+AUC: 0.7240 ± 0.0839
+roi区域：心肌+左心室，特征降维方法：无，模型名：SVM
+Accuracy: 0.7882 ± 0.0843
+F1 Score: 0.7649 ± 0.0864
+Sensitivity: 0.7495 ± 0.0861
+Specificity: 0.8941 ± 0.0421
+AUC: 0.9005 ± 0.0353
+roi区域：心肌+左心室，特征降维方法：无，模型名：RandomForest
+Accuracy: 0.8030 ± 0.0732
+F1 Score: 0.7712 ± 0.1284
+Sensitivity: 0.7471 ± 0.1221
+Specificity: 0.9015 ± 0.0366
+AUC: 0.9163 ± 0.0618
+roi区域：心肌+左心室，特征降维方法：无，模型名：AdaBoost
+Accuracy: 0.6158 ± 0.1196
+F1 Score: 0.5533 ± 0.1674
+Sensitivity: 0.5235 ± 0.1636
+Specificity: 0.8079 ± 0.0598
+AUC: 0.7462 ± 0.0864
